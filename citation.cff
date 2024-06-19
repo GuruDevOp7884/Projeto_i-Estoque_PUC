@@ -1,0 +1,19 @@
+message: Please cite this software using these metadata.
+title:inv-control
+authors: 
+  - family-names:  Alves Oliveira
+    given-names: Gustavo 
+  - family-names:  Carlos da Costa Júnior
+    given-names: José 
+  - family-names:  Bernardino Ribeiro Filho
+    given-names: Jefferson
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Wilson da Costa
+    given-names: José 
+keywords:
+  - Controle de estoque
+  - inventario
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t3-inv-control
+version: 1.0.0
+date-released: 2022-11-22
